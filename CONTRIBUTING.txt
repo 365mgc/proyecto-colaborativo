@@ -1,0 +1,6 @@
+# Guía para Contribuir
+
+¡Gracias por tu interés en contribuir! Para proponer cambios, por favor, sigue estos pasos:
+1. Haz un fork de este repositorio.
+2. Crea una nueva rama para tus cambios.
+3. Envía un Pull Request con una descripción clara de tus aportes.

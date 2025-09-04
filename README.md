@@ -1,4 +1,4 @@
-# Proyecto Colaborativo
+# El Gran Proyecto Colaborativo
 
 Este es un proyecto de ejemplo para practicar el flujo de trabajo de GitHub.
 

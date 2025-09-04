@@ -1,5 +1,5 @@
 # Miembros del Equipo
 
-- Alex
-- Brenda
-- Carlos
+- Alex (Desarrollador Backend)
+- Brenda (Diseñadora UX/UI)
+- Carlos (Desarrollador Frontend)

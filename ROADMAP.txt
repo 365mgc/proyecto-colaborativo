@@ -1,0 +1,7 @@
+# Roadmap del Proyecto
+
+## Q1 - Metas
+- Lanzamiento de la versión inicial.
+
+## Q2 - Metas
+- Desarrollar la funcionalidad principal.

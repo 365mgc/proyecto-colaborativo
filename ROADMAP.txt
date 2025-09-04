@@ -5,3 +5,6 @@
 
 ## Q2 - Metas
 - Desarrollar la funcionalidad principal.
+
+## Q3 - Metas
+- Añadir integraciones con otras plataformas.
